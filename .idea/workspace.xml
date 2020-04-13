@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="23a597d0-6547-4f75-b0b4-3812d6fa69c1" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
-    </list>
+    <list default="true" id="23a597d0-6547-4f75-b0b4-3812d6fa69c1" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -67,6 +64,7 @@
       <workItem from="1586119904319" duration="19382000" />
       <workItem from="1586464008431" duration="24791000" />
       <workItem from="1586600004315" duration="27671000" />
+      <workItem from="1586770940362" duration="200000" />
     </task>
     <task id="LOCAL-00001" summary="add hover effect,add position,flex">
       <created>1586717467961</created>
@@ -75,7 +73,14 @@
       <option name="project" value="LOCAL" />
       <updated>1586717467962</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add hover effect,add position,flex,fix img">
+      <created>1586771707963</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1586771707963</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -83,13 +88,14 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add hover effect,add position,flex" />
-    <option name="LAST_COMMIT_MESSAGE" value="add hover effect,add position,flex" />
+    <MESSAGE value="add hover effect,add position,flex,fix img" />
+    <option name="LAST_COMMIT_MESSAGE" value="add hover effect,add position,flex,fix img" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="321" y="0" key="CommitChangelistDialog2" timestamp="1586717464057">
+    <state x="321" y="0" key="CommitChangelistDialog2" timestamp="1586771684481">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="321" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1586717464057" />
+    <state x="321" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1586771684481" />
     <state x="186" y="8" key="SettingsEditor" timestamp="1586717014415">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
