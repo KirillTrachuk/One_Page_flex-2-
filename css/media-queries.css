@@ -1,0 +1,99 @@
+
+
+@media only screen and (max-width: 1024px) {
+    .progress_bar{
+        max-width: 992px;
+        margin: auto;
+    }
+}
+@media only screen and (max-width: 992px) {
+
+}
+
+@media only screen and (max-width: 768px) {
+    .service_card{
+        width: 50%;
+        margin: 0;
+        padding: 15px;
+    }
+    .results{
+        width: 50%;
+        margin: 0;
+        padding: 15px 15px 15px 70px;
+    }
+    .my-flex-block{
+        width: 50%;
+    }
+    .my-flex-block_another{
+        width: 50%;
+    }
+    .player{
+        max-width: 600px;
+        height: 400px;
+    }
+    .clients_logo{
+        padding: 20px;
+    }
+    .piroll{
+        padding: 0 100px 0 80px;
+    }
+    .menu1{
+        padding: 30px 20px 0 15px;
+    }
+    .menu2{
+        padding: 30px 35px 0 35px;
+    }
+    .footer_item{
+        padding-top: 30px;
+    }
+}
+@media only screen and (max-width: 414px) {
+    .service_card{
+        width: 100%;
+    }
+    .results{
+        width: 100%;
+    }
+    .my-flex-block{
+        width: 100%;
+    }
+    .my-flex-block_another{
+        width: 100%;
+    }
+    .player{
+        max-width: 414px;
+        height: 320px;
+    }
+    .clients_logo{
+        max-width: 320px;
+        margin: auto;
+    }
+    .piroll{
+
+    }
+    .number{
+        padding: 30px 70px 0 100px;
+    }
+    .menu1{
+
+    }
+    .menu2{
+
+    }
+}
+@media only screen and (max-width: 375px) {
+    .player{
+        max-width: 360px;
+        height: 320px;
+    }
+}
+@media only screen and (max-width: 360px) {
+    .player{
+        max-width: 320px;
+        height: 320px;
+    }
+}
+@media only screen and (max-width: 320px) {
+
+}
+
