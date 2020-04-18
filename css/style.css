@@ -116,6 +116,10 @@ header nav ul li a:hover{
     /*height: 420px;*/
     flex-direction: column;
 }
+.about_us_mw{
+    max-width: 1024px;
+    margin:auto;
+}
 
 .about_us h2 {
     color: #191919;
@@ -335,7 +339,6 @@ header nav ul li a:hover{
 
 }
 .video_youtube h3{
-    padding-top: 101px;
     color: #191919;
     font-size: 30px;
     font-family: 'Montserrat', sans-serif;
@@ -423,8 +426,12 @@ header nav ul li a:hover{
     flex-direction: column;
     text-align: center;
 }
+.reviews_mw{
+    max-width: 1024px;
+    margin: auto;
+}
 .outstanding{
-    max-width: 1170px;
+    max-width: 1024px;
     margin: auto;
     font-family: 'Montserrat', sans-serif;
     font-weight: 500;

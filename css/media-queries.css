@@ -5,9 +5,20 @@
         max-width: 992px;
         margin: auto;
     }
+    .player{
+        max-width: 980px;
+        margin: auto;
+    }
 }
 @media only screen and (max-width: 992px) {
-
+    .progress_bar{
+        max-width: 900px;
+        margin: auto;
+    }
+ .reviews_mw{
+     max-width: 992px;
+     margin: auto;
+ }
 }
 
 @media only screen and (max-width: 768px) {
@@ -35,18 +46,56 @@
         padding: 20px;
     }
     .piroll{
-        padding: 0 100px 0 80px;
+        padding: 0 100px 0 110px;
+        width: 50%;
+    }
+    .number{
+        width: 50%;
+        margin-top: 35px;
     }
     .menu1{
-        padding: 30px 20px 0 15px;
+        width: 33%;
+        padding: 0;
     }
     .menu2{
-        padding: 30px 35px 0 35px;
+        width: 33%;
+        padding: 0;
     }
     .footer_item{
         padding-top: 30px;
     }
-
+    .footer_section{
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+    .reviews_mw{
+        max-width: 768px;
+        margin: auto;
+    }
+    .reviews{
+        padding-top: 100px;
+        padding-bottom: 60px;
+    }
+    .player{
+        max-width: 750px;
+        margin: auto;
+    }
+    .form{
+        padding-bottom: 40px;
+        padding-top: 40px;
+    }
+    .right_bg{
+        width: 0;
+    }
+    .progress_bar{
+        max-width: 414px;
+        margin: auto;
+    }
+    .text_right{
+        float: none;
+        text-align: center;
+        margin: 0;
+    }
 }
 @media only screen and (max-width: 414px) {
     .service_card{
@@ -61,38 +110,71 @@
     .my-flex-block_another{
         width: 100%;
     }
-    .player{
-        max-width: 414px;
-        height: 320px;
-    }
     .clients_logo{
         max-width: 320px;
         margin: auto;
     }
     .piroll{
-
+        width: 100%;
+        text-align: center;
     }
     .number{
-        padding: 30px 70px 0 100px;
+        width: 100%;
+        text-align: center;
+        padding: 25px 0;
     }
-    .menu1{
-
+    .reviews_mw{
+        max-width: 414px;
+        margin: auto;
     }
-    .menu2{
-
+    .form{
+        max-width: 320px;
+        margin: auto;
+    }
+    .player{
+        max-width: 400px;
+        margin: auto;
+        height: 300px;
+    }
+    .progress_bar{
+        max-width: 310px;
+        margin: auto;
+        padding-top: 100px;
+    }
+    .skills{
+        padding-bottom: 100px;
+    }
+    .about_us_mw{
+        max-width: 310px;
+    }
+    header nav{
+        float: none;
     }
 }
 @media only screen and (max-width: 375px) {
-    .player{
-        max-width: 360px;
-        height: 320px;
+    .reviews_mw{
+        max-width: 320px;
+        margin: auto;
     }
+    .player{
+        max-width: 300px;
+        margin: auto;
+        height: 200px;
+    }
+    .play{
+        margin-top: -20px;
+    }
+    .my-flex-block{
+        padding-top: 15px;
+    }
+    .my-flex-block_another{
+        padding-top: 15px;
+    }
+
+
 }
 @media only screen and (max-width: 360px) {
-    .player{
-        max-width: 320px;
-        height: 320px;
-    }
+
 }
 @media only screen and (max-width: 320px) {
 
