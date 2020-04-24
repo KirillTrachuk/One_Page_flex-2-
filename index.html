@@ -10,10 +10,24 @@
     <link rel="stylesheet" href="fontawesome-free-5.0.8/web-fonts-with-css/css/fontawesome-all.css">
     <link rel="stylesheet" href="css/owl.carousel.min.css">
     <link rel="stylesheet" href="css/owl.theme.default.min.css">
+    <link rel="stylesheet" href="https://code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+    <link rel="stylesheet" href="https://resources/demos/style.css">
     <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="css/media-queries.css">
 </head>
 <body>
+<div id="dialog" title="FORGOT YOUR PASSWORD?">
+    <form>
+       <div class="form_item">
+           <span class="bg_grey">ENTER YOUR EMAIL</span>
+           <input type="text"></div>
+        <div class="form_button">
+            <button type="reset" target="_blank" class="button_reset">RESET PASSWORD</button>
+        <span class="bg_grey">OR</span>
+        <a href="#"><i class="fab fa-facebook-f"></i>Log In Using Facebook</a>
+        </div>
+    </form>
+</div>
 <header>
     <div class="container">
         <a href="#" class="logo">
@@ -57,7 +71,7 @@
                 20 years of combined experience, and know a thing or two<br>
                 about designing websites and mobile apps.
             </p>
-            <a href="#" class="contact_us" target="_blank">Contact us</a>
+            <a href="#" class="contact_us" id="opener">Contact us</a>
         </div>
 
     </div>
@@ -297,7 +311,9 @@
         src="https://code.jquery.com/jquery-2.2.4.min.js"
         integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44="
         crossorigin="anonymous"></script>
+
 <script src="js/owl.carousel.min.js"></script>
+<script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
 <script src="js/scripts.js"></script>
 </body>
 </html>
